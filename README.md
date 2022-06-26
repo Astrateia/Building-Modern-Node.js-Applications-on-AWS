@@ -1,14 +1,7 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+Building-Modern-Node.js-Applications-on-AWS
 
 
-Hi there! Welcome to AWS Cloud9!
+Курс: https://www.coursera.org/learn/building-modern-node-applications-on-aws/home/week/1 
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
-Happy coding!
+Сертифікат: https://coursera.org/verify/VGUE2DMTSLKA Погорєлова Дарія, ІК-92
